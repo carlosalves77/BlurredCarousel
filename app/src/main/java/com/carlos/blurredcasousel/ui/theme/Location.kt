@@ -14,19 +14,19 @@ val locations = listOf(
         image = R.drawable.tabriz,
         title = "Tabriz",
         subtitle = "A city in Iran",
-        rating = 5
+        rating = 3
     ),
     Location(
         image = R.drawable.dubai,
         title = "Dubai",
         subtitle = "A city in United Arab emirates",
-        rating = 3
+        rating = 4
     ),
     Location(
         image = R.drawable.london,
         title = "London",
         subtitle = "Capital of England and the United Kingdom",
-        rating = 3
+        rating = 5
     ),
     Location(
         image = R.drawable.los_angeles,
@@ -44,6 +44,6 @@ val locations = listOf(
         image = R.drawable.kazan,
         title = "Kazan",
         subtitle = "A city in Russia",
-        rating = 5
+        rating = 2
     )
 )
